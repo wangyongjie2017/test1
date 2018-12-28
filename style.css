@@ -1,0 +1,14 @@
+.v .vwrap {
+    border: 1px solid #776a6a;
+    box-shadow: 3px 5px 0px 0 #6d6464;
+}
+
+.v .veditor {
+    min-height: 12rem;
+    box-shadow: 0 0 5px 0 #000;
+}
+
+.v .vwrap .vheader .vinput::-webkit-input-placeholder {
+    color: #000;
+    border: 1px dotted #7b7b7b;
+}
