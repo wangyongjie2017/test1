@@ -1,5 +1,5 @@
 .v .vwrap {
-    border: 1px solid #8c8383;
+    border: 1px solid #8c8383 !important;
     box-shadow: 3px 5px 0px 0 #6d6464;
 }
 
